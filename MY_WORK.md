@@ -1,4 +1,4 @@
-# 📝 MY_WORK: Student Information, Development Log, Reflection & Answers
+<img width="1092" height="363" alt="image" src="https://github.com/user-attachments/assets/773fe5db-25e9-4315-a507-6ba0cb8f6b4c" /># 📝 MY_WORK: Student Information, Development Log, Reflection & Answers
 
 > This is the **only file** your instructor reads to grade Parts 3 and 4 (documentation and video). Everything you write here must be **in your own words**.
 
@@ -39,7 +39,7 @@
 
 ## 🎥 Video Link
 
-**Video Link**: [Paste your video link here]
+**Video Link**: https://youtu.be/QLC7cDtvyRg?si=iyY8BAQEuww8dZhF
 
 > ⚠️ **WARNING:** The video must be **publicly accessible** ("Anyone with the link can view") on **Google Drive**, **YouTube (Unlisted or Public)** or any other cloud file-sharing system. A private, restricted or broken link counts as a **missing video (-1 mark)**.
 >
@@ -129,7 +129,7 @@
 
 ## Your Development Log
 
-### Entry 1 - [October 9, 2026, 10:00 AM]
+### Entry 1 - [October 9, 2026, 11:05 AM]
 **What I did**:Set up the project and configured my student ID.
 
 **Details**:
@@ -147,7 +147,7 @@
 
 ---
 
-### Entry 2 - [October 9, 2026]
+### Entry 2 - [October 9, 2026, 7:06 PM]
 **What I did**:Implemented process priority
 
 **Details**:
@@ -167,7 +167,7 @@
 
 ---
 
-### Entry 3 - [October 9, 2026]
+### Entry 3 - [October 9, 2026, 8:50 PM]
 **What I did**:Implemented the context-switch counter.
 
 **Details**:
@@ -184,7 +184,7 @@
 
 ---
 
-### Entry 4 - [October 10, 2026]
+### Entry 4 - [October 10, 2026, 12:30 PM]
 **What I did**:Implemented waiting-time tracking.
 
 **Details**:
@@ -202,7 +202,7 @@
 
 ---
 
-### Entry 5 - [October 10, 2026]
+### Entry 5 - [October 10, 2026, 12:10 PM]
 **What I did**:Tested the scheduling simulation.
 
 **Details**:
@@ -415,36 +415,36 @@ P1 finished execution!]
 > ⚠️ **WARNING:** Go through every line. Late submission costs **-1 mark per day**, and the deadline is **October 10, 2026**.
 
 **Repository**
-- [ ] Repository is **PUBLIC** (Settings → Danger Zone → Visibility)
-- [ ] Repository is renamed to `OS-Assignment1-YourFirstName-YourLastName`
-- [ ] GitHub account uses the university email (`@std.psau.edu.sa`)
+- [X] Repository is **PUBLIC** (Settings → Danger Zone → Visibility)
+- [X] Repository is renamed to `OS-Assignment1-YourFirstName-YourLastName`
+- [X] GitHub account uses the university email (`@std.psau.edu.sa`)
 
 **Code**
-- [ ] Student ID is set in `SchedulerSimulation.java` (line 150)
-- [ ] Code compiles and runs with no errors
-- [ ] Feature 1 (priority), Feature 2 (context switches) and Feature 3 (waiting time table) all work
-- [ ] Each feature has clear comments
+- [X] Student ID is set in `SchedulerSimulation.java` (line 150)
+- [X] Code compiles and runs with no errors
+- [X] Feature 1 (priority), Feature 2 (context switches) and Feature 3 (waiting time table) all work
+- [X] Each feature has clear comments
 
 **Commits**
-- [ ] **At least 3 meaningful commits, ideally 6 or more**
-- [ ] **One commit per feature**
-- [ ] Commits are spread over **different dates** (not all in the last hour)
-- [ ] Everything is **pushed** to GitHub
+- [X] **At least 3 meaningful commits, ideally 6 or more**
+- [X] **One commit per feature**
+- [X] Commits are spread over **different dates** (not all in the last hour)
+- [X] Everything is **pushed** to GitHub
 
 **This file (`MY_WORK.md`)**
-- [ ] Full name and student ID filled in at the top
-- [ ] Development log has **5+ entries** on different dates
-- [ ] Reflection: 4 questions, 5-7 sentences each
-- [ ] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output
-- [ ] No `[...]` placeholders left
-- [ ] No section headers deleted
+- [X] Full name and student ID filled in at the top
+- [X] Development log has **5+ entries** on different dates
+- [X] Reflection: 4 questions, 5-7 sentences each
+- [X] Technical answers: 4 questions, 3-5 sentences each, with examples from **your** output
+- [X] No `[...]` placeholders left
+- [X] No section headers deleted
 
 **Video**
-- [ ] 2-3 minutes long, named `StudentID_Assignment1_Demo.mp4`
-- [ ] Shows your name, ID, repository, 3 features, IDE execution, one threading concept, and commit history
-- [ ] Link is **public** (tested in an incognito window) and pasted in the **Video Link** section above
+- [X] 2-3 minutes long, named `StudentID_Assignment1_Demo.mp4`
+- [X] Shows your name, ID, repository, 3 features, IDE execution, one threading concept, and commit history
+- [X] Link is **public** (tested in an incognito window) and pasted in the **Video Link** section above
 
 **Blackboard**
-- [ ] Submit **only** the link to your public GitHub repository
+- [X] Submit **only** the link to your public GitHub repository
 
 > 🎯 **Good luck!** Start early, commit regularly, and make sure you can explain every line you submit.
